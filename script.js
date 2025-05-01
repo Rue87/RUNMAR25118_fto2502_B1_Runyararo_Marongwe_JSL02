@@ -1,7 +1,3 @@
-//Get task containers from HTML
-const todoContainer = document.getElementById("todo-head-div");
-const doingContainer = document.getElementById("doing-head-div");
-const doneContainer = document.getElementById("done-head-div");
 
 function collectTaskData() {
   let hasCompletedTask = false;
