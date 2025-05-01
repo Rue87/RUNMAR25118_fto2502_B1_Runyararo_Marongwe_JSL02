@@ -1,49 +1,30 @@
-# JSL01 Challenge – Solution Code
+# Task Input and Status Validation System
 
-## Overview
+## Description
 
-This repository provides the **official solution code for the JSL01 challenge**. It is intended to support students who have completed the challenge and need a reference for improving their work before progressing to **JSL02**.
+This project is a JavaScript program that prompts the user to enter information for two tasks, including each task's title, description, and current status ("todo", "doing", or "done"). It helps simulate task tracking and emphasizes basic JavaScript functionality like loops, conditionals, and user input handling through the prompt() and alert() methods.
 
-Students should use this solution to:
+## Technologies Used
 
-- Review and reflect on their own implementation
-- Identify areas of improvement in their code (naming, logic, layout, responsiveness, etc.)
-- Apply corrections and best practices before continuing with the next challenge in the series
+ - **HTML**
+ - **JavaScript**
+ - **Browser APIs**: prompt(), alert(), and console.log()
 
-## Structure
+## Features
 
-The project includes:
+ - Prompt-based user input for two tasks
 
-- ✅ A fully working solution to the JSL01 challenge
-- 📁 Organised files including `index.html`, `styles.css`, and assets forlder
-- 🎯 Clean, semantic HTML and well-commented code for ease of understanding
-- 📐 Responsive layout and accessible design considerations
+ - Input validation for task status
 
-## How to Use This Solution
+ - Tracks and stores task details (title, description, status)
 
-1. **Compare** your original solution to the files in this repository.
-2. **Make notes** of differences, especially where your solution didn’t work or used less efficient logic.
-3. **Update your project** using this solution as a reference—not just a copy.
-4. Once confident with your corrections, **move on to the JSL02 challenge**.
+ - Detects and logs completed tasks
 
-## Next Steps
+ - Motivational feedback if no tasks are marked as done
 
-After updating your JSL01 project with improvements based on this solution:
+ - Clear inline code comments for better understanding
 
-➡️ Proceed to **JSL02**, where you'll begin a **new repository**.
+  
 
-- Start by copying your **corrected `index.html` and `styles.css` files** from JSL01 into the new JSL02 repo.
-- Then, begin adding the **new JavaScript functionality** required in the JSL02 challenge.
-- This ensures your JSL02 project builds on clean, working foundations from JSL01.
 
----
 
-### 💡 Tip for Students
-
-Don’t just copy-paste the solution. Try to understand **why** each part of the code works. The goal is to learn how to structure clean, maintainable, and functional JavaScript code.
-
----
-
-## License
-
-This solution code is provided for **educational use only**.
