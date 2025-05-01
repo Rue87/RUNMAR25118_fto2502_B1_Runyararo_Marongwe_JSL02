@@ -12,17 +12,33 @@ This project is a JavaScript program that prompts the user to enter information 
 
 ## Features
 
- - Prompt-based user input for two tasks
+ - Two tasks that require prompt-based user input
 
  - Input validation for task status
 
  - Tracks and stores task details (title, description, status)
 
- - Detects and logs completed tasks
+ - Identifies and records finished tasks
 
  - Motivational feedback if no tasks are marked as done
 
  - Clear inline code comments for better understanding
+
+## Setup Instructions
+
+1. Download or clone this repository to your computer.
+
+2. Open the project folder in your code editor.
+
+3. Include a reference to script.js inside a <script> tag in an index.html file.
+
+4. In script.js, add the JavaScript code.
+
+5. 
+
+
+
+
 
   
 
